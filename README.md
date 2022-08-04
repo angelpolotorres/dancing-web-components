@@ -2,7 +2,7 @@
 
 This project consists of generating Vanilla Web Components and make them dance
 
-![image](https://github.com/angelpolotorres/tailwind-with-vite/blob/main/images/project-cover.jpg)
+![image](https://github.com/angelpolotorres/vanilla-web-components/blob/main/public/dancing.png)
 
 ## How to start ⚙️
 
